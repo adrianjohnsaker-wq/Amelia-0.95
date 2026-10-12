@@ -1,0 +1,29 @@
+table,condition_or_metric,value,unit,reference,provenance
+2,CA frequency N0 minus S0,0.227,difference,primary seed,archived summary
+2,Transition entropy N0 minus S0,0.459,difference,primary seed,archived summary
+2,Oscillatory coherence N0 minus S0,0.275,difference,primary seed,archived summary
+2,High-complexity state frequency N0 minus S0,0.270,difference,primary seed,archived summary
+2,Zone coverage N0 minus S0,0,difference,primary seed,archived summary
+2,NSI,0.681,normalized index,5 metrics,archived summary
+3,U1 complete ordered N0,18,count out of 18,U1-derived reference,archived summary
+3,Partial,7,count out of 18,U1-derived reference,archived summary
+3,Broken,4,count out of 18,U1-derived reference,archived summary
+3,Shuffled,6,count out of 18,U1-derived reference,archived summary
+3,Random U5,1,count out of 18,U1-derived reference,archived summary
+4,V1 zone 0 removal,1,count out of 18,U1 baseline 18,archived summary
+4,V6 cycle closure removed,2,count out of 18,U1 baseline 18,archived summary
+4,V3 z9 to z0 removed,6,count out of 18,U1 baseline 18,archived summary
+4,V2 z3 to z2 removed,8,count out of 18,U1 baseline 18,archived summary
+4,V5 z4 to z5 removed,11,count out of 18,U1 baseline 18,archived summary
+5,W1 N0 with PCM,18,count out of 18,U1-derived reference,archived summary
+5,W2 PCM with shuffled S0,9,count out of 18,U1-derived reference,archived summary
+5,W5 N0 without PCM,3,count out of 18,U1-derived reference,archived summary
+6,Strategy guided,18.0,mean count out of 18,reported benchmark,archived summary
+6,Fluid PCM,13.8,mean count out of 18,reported benchmark,archived summary
+6,Blocked strategy,12.2,mean count out of 18,reported benchmark,archived summary
+6,No memory,0.8,mean count out of 18,reported benchmark,archived summary
+7,Active coordinate movement,17.76,mean count out of 18,45-run summary,archived summary
+7,Mapping only,13.8,mean count out of 18,45-run summary,archived summary
+7,Generic homeostatic recovery,11.8,mean count out of 18,45-run summary,archived summary
+7,Static profile description,9.0,mean count out of 18,45-run summary,archived summary
+7,Unguided perturbation response,3.4,mean count out of 18,45-run summary,archived summary
