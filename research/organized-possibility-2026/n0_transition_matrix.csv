@@ -1,0 +1,11 @@
+zone,exit_1,exit_2
+z0,z1,z5
+z1,z2,z8
+z2,z7,z3
+z3,z2,z6
+z4,z5,z0
+z5,z6,z0
+z6,z7,z3
+z7,z8,z2
+z8,z9,z1
+z9,z0,z4
